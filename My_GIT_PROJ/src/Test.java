@@ -8,6 +8,6 @@ public class Test {
 		System.out.println("logic for add ");
 	}
 	private void mul(){
-		
+		System.out.println();
 	}
 }
