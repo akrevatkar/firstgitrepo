@@ -7,4 +7,7 @@ public class Test {
 		// TODO Auto-generated method stub
 		System.out.println("logic for add ");
 	}
+	private void mul(){
+		
+	}
 }
