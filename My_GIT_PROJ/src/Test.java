@@ -10,4 +10,7 @@ public class Test {
 	private void mul(){
 		System.out.println();
 	}
+	private void sub(){
+		
+	}
 }
